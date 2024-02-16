@@ -25,6 +25,21 @@ Fonts and Icons: The clone may utilize custom fonts and icons to match the desig
 
 Modularization: To maintain clean and organized code, the project may be divided into separate HTML and CSS files for different sections or components of the webpage. This modular approach makes it easier to manage and update the codebase.
 
+
+screenshot:
+navbar:
+
+![image](https://github.com/thehiten/amazonCloneWebsite/assets/146644282/5096b2c9-f83c-4746-bc32-27e93e1c4022)
+
+sections:
+
+![image](https://github.com/thehiten/amazonCloneWebsite/assets/146644282/188214a0-2bf5-4ec7-9337-c6a00fcff4c8)
+
+![image](https://github.com/thehiten/amazonCloneWebsite/assets/146644282/5df74aa4-4ad5-4175-8043-6487634967f2)
+
+footer:
+![image](https://github.com/thehiten/amazonCloneWebsite/assets/146644282/fdb826b3-8913-4570-b630-bf209fc5006a)
+
 Preview
 
 Setup, Usage, Contributing, and License
